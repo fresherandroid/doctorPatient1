@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DoctorPatient2</string>
+    <string name="title_activity_sign_up">SignUpActivity</string>
+    <string name="new_user_sign_up_here">signUp</string>
+    <string name="sign_in">signIn</string>
+    <string name="password">Pass</string>
+    <string name="email">EMail</string>
+    <string name="already_registered_sign_in_here">already registered</string>
+    <string name="sign_up">signUp</string>
+    <string name="confirm_password">confirmPass</string>
+</resources>
